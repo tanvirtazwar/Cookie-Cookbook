@@ -16,7 +16,7 @@ This project is a C# application designed to help you manage your favorite cooki
 
 - Select the file format that best suits your needs.
 
-## How to Run Your Project
+## How to Run the Project
 
 1. Prerequisites:
    - Visual Studio (any version compatible with C#)
