@@ -1,7 +1,7 @@
 ﻿using Cookie_Cookbook.Controller;
 using Cookie_Cookbook.FileAccess;
 
-TextFormat fileType = TextFormat.Txt;
+TextFormat fileType = TextFormat.Json;
 string fileName = FileType.ResturnType(fileType);
 List<List<int>>? listOfRecipeList = [];
 if (File.Exists(fileName))
